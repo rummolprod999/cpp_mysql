@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/cpp_mysql.dir/main.cpp.o  -o cpp_mysql 
+/usr/bin/c++  -g   CMakeFiles/cpp_mysql.dir/main.cpp.o  -o cpp_mysql -lcurl -lmysqlcppconn 
